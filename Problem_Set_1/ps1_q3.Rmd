@@ -1,6 +1,6 @@
 ---
 title: "Solutions to STATS 506 Problem Set 1, Question 3"
-author: "Jingwen(Alex) Xiao"
+author: "Alex Xiao"
 date: 09/20/2019 
 output: pdf_document
 ---
