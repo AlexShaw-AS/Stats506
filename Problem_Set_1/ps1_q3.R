@@ -97,8 +97,7 @@ for(i in 1:subs){
 
 #Solution to problem 3f.
 #Input:N/A
-#Output:metrics--a n*4 matrix concerning the traits in problem 3e, 
-#where n stands for the total number of trials.
+#Output:metrics--a n*4 matrix concerning the traits in problem 3e, where n stands for the total number of trials.
 #"Intersect" is used to get a set of the subjects and trials,
 #as I haven't found a better command for that.
 test=read.csv("test_trajectories.csv",header=TRUE)
